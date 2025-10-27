@@ -21,9 +21,9 @@
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
     },
     {
-      "name": "EI",
-      "symbol": "EI",
-      "address": "0x58863a7aCA37343cf83C2Aae4B321F0539223516",
+      "name": "EICOIN",
+      "symbol": "EICOIN",
+      "address": "0xe0f1466EEDfa7dD1aEA2E8448526F58a4c487EE0",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x58863a7aCA37343cf83C2Aae4B321F0539223516.png"
