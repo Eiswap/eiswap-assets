@@ -43,7 +43,31 @@
       "address": "0xe0f1466EEDfa7dD1aEA2E8448526F58a4c487EE0",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x58863a7aCA37343cf83C2Aae4B321F0539223516.png"
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xe0f1466EEDfa7dD1aEA2E8448526F58a4c487EE0.png"
+    },
+    {
+      "name": "Wrapped RZ",
+      "symbol": "WRZ",
+      "address": "0xAE4B94a0cD483946fFC664815681854D8aEb04bb",
+      "chainId": 59671,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/rzcoin/0xAE4B94a0cD483946fFC664815681854D8aEb04bb.png"
+    },
+    {
+      "name": "EICOIN from BSC",
+      "symbol": "EICOIN",
+      "address": "0x96A59fFBCABDc97600A46c8e177C523067B1911c",
+      "chainId": 59671,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/rzcoin/0x96A59fFBCABDc97600A46c8e177C523067B1911c.png"
+    },
+    {
+      "name": "Tether USD from BSC",
+      "symbol": "USDT",
+      "address": "0x86a57b0BCC19ae8823513bf3B9834Fd82AB86e9B",
+      "chainId": 59671,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/rzcoin/0x86a57b0BCC19ae8823513bf3B9834Fd82AB86e9B.png"
     }
   ]
 }
