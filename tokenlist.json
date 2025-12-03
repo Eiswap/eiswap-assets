@@ -100,6 +100,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xE014d1C27934A59C1fF2cD2A3320aFd635FCbDFd.png"
+    },
+    {
+      "name": "Ready Player One Token",
+      "symbol": "RP1",
+      "address": "0x1A694dB0D264EbD10D2620270e2618784039f92F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x1A694dB0D264EbD10D2620270e2618784039f92F.png"
     }
   ]
 }
