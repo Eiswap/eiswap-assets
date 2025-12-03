@@ -86,12 +86,12 @@
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x86a57b0BCC19ae8823513bf3B9834Fd82AB86e9B.png"
     },
     {
-      "name": "Binance-Peg BTCB",
-      "symbol": "BTCB",
-      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "name": "CZW",
+      "symbol": "CZW",
+      "address": "0xb2054b867c503350927930d0302528b9825d0db5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x86a57b0BCC19ae8823513bf3B9834Fd82AB86e9B.png"
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xb2054b867c503350927930d0302528b9825d0db5.png"
     }
   ]
 }
