@@ -73,7 +73,7 @@
       "name": "Meta Games Coin",
       "symbol": "MGC",
       "address": "0xbb73BB2505AC4643d5C0a99c2A1F34B3DfD09D11",
-      "chainId": 59671,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/rzcoin/0xbb73BB2505AC4643d5C0a99c2A1F34B3DfD09D11.png"
     },
@@ -81,7 +81,7 @@
       "name": "Binance-Peg BTCB",
       "symbol": "BTCB",
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-      "chainId": 59671,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/rzcoin/0x86a57b0BCC19ae8823513bf3B9834Fd82AB86e9B.png"
     },
