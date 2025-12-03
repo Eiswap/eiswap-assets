@@ -92,6 +92,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xb2054b867c503350927930d0302528b9825d0db5.png"
+    },
+    {
+      "name": "TRACTOR Token",
+      "symbol": "TRACTOR",
+      "address": "0xE014d1C27934A59C1fF2cD2A3320aFd635FCbDFd",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xE014d1C27934A59C1fF2cD2A3320aFd635FCbDFd.png"
     }
   ]
 }
