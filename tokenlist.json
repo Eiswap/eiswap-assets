@@ -115,7 +115,7 @@
       "symbol": "OMG",
       "address": "0xe94444ba62208431a27c764e2e28794e81f5b235",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xe94444ba62208431a27c764e2e28794e81f5b235.png"
     },
     
