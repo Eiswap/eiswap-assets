@@ -108,6 +108,98 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x1A694dB0D264EbD10D2620270e2618784039f92f.png"
+    },
+    
+    {
+      "name": "Oil Meta Games Token",
+      "symbol": "OMG",
+      "address": "0xe94444ba62208431a27c764e2e28794e81f5b235",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xe94444ba62208431a27c764e2e28794e81f5b235.png"
+    },
+    
+    {
+      "name": "Neo Bank Token",
+      "symbol": "NEO",
+      "address": "0x1A694dB0D264EbD10D2620270e2618784039f92F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x1A694dB0D264EbD10D2620270e2618784039f92f.png"
+    },
+    
+    {
+      "name": "The Mobile Token",
+      "symbol": "MOB",
+      "address": "0xfa39ed187c7b89fcedabcf0310b3c4ac88f76fd8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xfa39ed187c7b89fcedabcf0310b3c4ac88f76fd8.png"
+    },
+    
+    {
+      "name": "Life Token",
+      "symbol": "LIFE",
+      "address": "0x488535e0a2503252798f381b2df08a6280e994b2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x488535e0a2503252798f381b2df08a6280e994b2.png"
+    }
+    ,
+    
+    {
+      "name": "Jewelry Token",
+      "symbol": "JEWELRY",
+      "address": "0xf04fab6dda66261eabfd65e92a6b81ddaf6a950a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xf04fab6dda66261eabfd65e92a6b81ddaf6a950a.png"
+    },
+    
+    {
+      "name": "Insurance Token",
+      "symbol": "INSURANCE",
+      "address": "0x64e4fea6e4f3637025c7bcd878e2b238b01f7d4e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x64e4fea6e4f3637025c7bcd878e2b238b01f7d4e.png"
+    },
+    
+    {
+      "name": "Smart Logistic Token",
+      "symbol": "SLT",
+      "address": "0x28ba6ef35f27f1ed3873cc788698d2ddb28d2a82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x28ba6ef35f27f1ed3873cc788698d2ddb28d2a82.png"
+    },
+    
+    {
+      "name": "LUSD Token",
+      "symbol": "LUSD",
+      "address": "0x5bb4d589467c25a5ac8db930372dc5da30c3410e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x5bb4d589467c25a5ac8db930372dc5da30c3410e.png"
+    },
+    
+    {
+      "name": "Car Token",
+      "symbol": "CAR",
+      "address": "0xbb1106c7deb7cc60efa51391760b14aed8cb5bed",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xbb1106c7deb7cc60efa51391760b14aed8cb5bed.png"
+    }
+  ,
+    
+    {
+      "name": "INDUSTRIAL Token",
+      "symbol": "INDUSTRIAL",
+      "address": "0x9e06e1203bdc3747ee3ab5fa9488619bcf2a2666",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x9e06e1203bdc3747ee3ab5fa9488619bcf2a2666.png"
     }
   ]
 }
