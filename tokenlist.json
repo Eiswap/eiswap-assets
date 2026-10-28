@@ -1,10 +1,10 @@
 {
   "name": "eiswap",
-  "timestamp": "2025-10-23T02:34:02.028+00:00",
+  "timestamp": "2026-10-28T08:45:00.000+00:00",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 3
   },
   "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/logo.png",
   "keywords": [
@@ -35,8 +35,7 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x55d398326f99059fF775485246999027B3197955.png"
-    }
-    ,
+    },
     {
       "name": "EICOIN",
       "symbol": "EICOIN",
@@ -109,7 +108,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x1A694dB0D264EbD10D2620270e2618784039f92f.png"
     },
-    
     {
       "name": "Oil Meta Games Token",
       "symbol": "OMG",
@@ -118,7 +116,6 @@
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xe94444ba62208431a27c764e2e28794e81f5b235.png"
     },
-    
     {
       "name": "Neo Bank Token",
       "symbol": "NEO",
@@ -127,7 +124,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x1A694dB0D264EbD10D2620270e2618784039f92f.png"
     },
-    
     {
       "name": "The Mobile Token",
       "symbol": "MOB",
@@ -136,7 +132,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xfa39ed187c7b89fcedabcf0310b3c4ac88f76fd8.png"
     },
-    
     {
       "name": "Life Token",
       "symbol": "LIFE",
@@ -144,9 +139,7 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x488535e0a2503252798f381b2df08a6280e994b2.png"
-    }
-    ,
-    
+    },
     {
       "name": "Jewelry Token",
       "symbol": "JEWELRY",
@@ -155,7 +148,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xf04fab6dda66261eabfd65e92a6b81ddaf6a950a.png"
     },
-    
     {
       "name": "Insurance Token",
       "symbol": "INSURANCE",
@@ -164,7 +156,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x64e4fea6e4f3637025c7bcd878e2b238b01f7d4e.png"
     },
-    
     {
       "name": "Smart Logistic Token",
       "symbol": "SLT",
@@ -173,7 +164,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x28ba6ef35f27f1ed3873cc788698d2ddb28d2a82.png"
     },
-    
     {
       "name": "LUSD Token",
       "symbol": "LUSD",
@@ -182,7 +172,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x5bb4d589467c25a5ac8db930372dc5da30c3410e.png"
     },
-    
     {
       "name": "Car Token",
       "symbol": "CAR",
@@ -190,9 +179,7 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0xbb1106c7deb7cc60efa51391760b14aed8cb5bed.png"
-    }
-  ,
-    
+    },
     {
       "name": "INDUSTRIAL Token",
       "symbol": "INDUSTRIAL",
@@ -200,6 +187,78 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/bsc/0x9e06e1203bdc3747ee3ab5fa9488619bcf2a2666.png"
+    },
+    {
+      "name": "Tether USD (Bridged)",
+      "symbol": "WUSDT",
+      "address": "0x9c4229D652f0D0D7CaDc11554aBFFA8C840798d8",
+      "chainId": 505,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/dotone/0x9c4229D652f0D0D7CaDc11554aBFFA8C840798d8.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0xe415fAEd7f43e22c8Ef0159b33FADF577d94a5f0",
+      "chainId": 505,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/dotone/0xe415fAEd7f43e22c8Ef0159b33FADF577d94a5f0.png"
+    },
+    {
+      "name": "Ethereum Token (Bridged)",
+      "symbol": "WETH",
+      "address": "0x711Dc0Dd81A4cCa64Bc8c3fad4E51D7EeB3082a7",
+      "chainId": 505,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/dotone/0x711Dc0Dd81A4cCa64Bc8c3fad4E51D7EeB3082a7.png"
+    },
+    {
+      "name": "USD Coin (Bridged)",
+      "symbol": "WUSDC",
+      "address": "0xCc42fB0Cf8bc9426E3165eE59dD8c6c19edF13B7",
+      "chainId": 505,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/dotone/0xCc42fB0Cf8bc9426E3165eE59dD8c6c19edF13B7.png"
+    },
+    {
+      "name": "ChainLink Token (Bridged)",
+      "symbol": "WLINK",
+      "address": "0x7D4A965754f800EA08B792b00455B31ED1c31fcC",
+      "chainId": 505,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/dotone/0x7D4A965754f800EA08B792b00455B31ED1c31fcC.png"
+    },
+    {
+      "name": "SHIBA INU (Bridged)",
+      "symbol": "WSHIB",
+      "address": "0xd674EC6d370b5b6418679dCbc6A01aaEDec93894",
+      "chainId": 505,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/dotone/0xd674EC6d370b5b6418679dCbc6A01aaEDec93894.png"
+    },
+    {
+      "name": "BTCB Token (Bridged)",
+      "symbol": "WBTCB",
+      "address": "0xd68F57d9698088D5e0E6f49E60D1398A849098Fd",
+      "chainId": 505,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/dotone/0xd68F57d9698088D5e0E6f49E60D1398A849098Fd.png"
+    },
+    {
+      "name": "Dai Token (Bridged)",
+      "symbol": "WDAI",
+      "address": "0xB1e600BE9c665042eCAF99Eb57857E54dA4267d1",
+      "chainId": 505,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/dotone/0xB1e600BE9c665042eCAF99Eb57857E54dA4267d1.png"
+    },
+    {
+      "name": "PancakeSwap Token (Bridged)",
+      "symbol": "WCake",
+      "address": "0x89e23f72D7Ea5D33D2B6d97Bd63b6c08be7DBc7A",
+      "chainId": 505,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Eiswap/eiswap-assets/main/logo/dotone/0x89e23f72D7Ea5D33D2B6d97Bd63b6c08be7DBc7A.png"
     }
   ]
 }
